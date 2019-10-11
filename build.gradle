@@ -1,0 +1,30 @@
+plugins {
+  id 'java'
+}
+
+version 'example-1.0-SNAPSHOT'
+
+sourceCompatibility = 11
+
+repositories {
+  mavenCentral()
+}
+
+wrapper {
+  //gradleVersion = '4.4'// ok
+  //gradleVersion = '4.4.1'// ok
+  //gradleVersion = '4.5'// ng
+  //gradleVersion = '4.6'
+  //gradleVersion = '4.7'
+  //gradleVersion = '4.8'
+  //gradleVersion = '4.9'
+  //gradleVersion = '4.10'
+  //gradleVersion = '5.0'
+  //gradleVersion = '5.1'
+  //gradleVersion = '5.2'
+  //gradleVersion = '5.3'
+  //gradleVersion = '5.4'
+  //gradleVersion = '5.6'
+  gradleVersion = '5.6.2'// ng
+  distributionType = Wrapper.DistributionType.ALL
+}
