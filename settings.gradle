@@ -1,4 +1,4 @@
 rootProject.name = 'gradle-11017'
-org.apache.tools.ant.DirectoryScanner.removeDefaultExclude("**/CVS")
-org.apache.tools.ant.DirectoryScanner.removeDefaultExclude("**/CVS/**")
+//org.apache.tools.ant.DirectoryScanner.removeDefaultExclude("**/CVS")
+//org.apache.tools.ant.DirectoryScanner.removeDefaultExclude("**/CVS/**")
 

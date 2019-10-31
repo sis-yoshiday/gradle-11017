@@ -25,6 +25,7 @@ wrapper {
   //gradleVersion = '5.3'
   //gradleVersion = '5.4'
   //gradleVersion = '5.6'
-  gradleVersion = '5.6.2'// ng
+  //gradleVersion = '5.6.2'// ng
+  gradleVersion = '6.1-20191029232520+0000'// OK!!!!!
   distributionType = Wrapper.DistributionType.ALL
 }
